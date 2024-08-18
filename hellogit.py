@@ -1,5 +1,5 @@
 #Cuenta palabras
-#pro
+#producto beta
 
 while True:
     palabra = input("Ingresa una palabra (o presiona 'q' para salir): ")
